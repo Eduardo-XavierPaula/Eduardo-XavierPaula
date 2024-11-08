@@ -50,8 +50,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-XavierPaula&layout=donut&locale=pt-br)](https://github.com/Eduardo-XavierPaula/github-readme-stats)
-[![GitHub do Eduardo Xavier](https://github-readme-stats.vercel.app/api?username=Eduardo-XavierPaula&show_icons=true&locale=pt-br&theme=default&count_private=true)](https://github.com/Eduardo-XavierPaula/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-XavierPaula&theme=vue-dark&layout=donut&locale=pt-br)](https://github.com/Eduardo-XavierPaula/github-readme-stats)
+[![GitHub do Eduardo Xavier](https://github-readme-stats.vercel.app/api?username=Eduardo-XavierPaula&theme=vue-dark&show_icons=true&locale=pt-br&count_private=true)](https://github.com/Eduardo-XavierPaula/github-readme-stats)
 
 ## Onde me encontrar
 
